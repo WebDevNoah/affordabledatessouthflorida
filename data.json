@@ -1,0 +1,74 @@
+{
+    "dates": [
+        {
+            "name": "Beach Picnic at South Pointe Park",
+            "description": "Enjoy a scenic picnic by the ocean with stunning sunset views.",
+            "price": "$20-$30",
+            "link": "https://www.miamibeachfl.gov/parks/south-pointe-park/",
+            "image": "https://www.miamibeachfl.gov/wp-content/uploads/2024/03/Parks-Gallery-3-SouthPointePark.jpeg"
+        },
+        {
+            "name": "Wynwood Walls Art Walk",
+            "description": "Explore the vibrant street art scene with free entry to the Wynwood Walls district.",
+            "price": "Free",
+            "link": "https://thewynwoodwalls.com/",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Wynwood_Walls_%2810106520595%29.jpg"
+        },
+        {
+            "name": "Kayaking at Oleta River State Park",
+            "description": "Paddle through beautiful mangroves and enjoy nature together.",
+            "price": "$30-$50",
+            "link": "https://www.floridastateparks.org/OletaRiver",
+            "image": "https://www.floridastateparks.org/sites/default/files/styles/card/public/media/image/TOCOletaRiver-6932_ScOTuS1e_vc6QDjBmdbY82s18q0ABlZBh_cmyk_l.jpg?itok=s6ieRgwO"
+        },
+        {
+            "name": "Fairchild Tropical Botanic Garden",
+            "description": "A romantic stroll through lush gardens filled with exotic plants.",
+            "price": "$20 per person",
+            "link": "https://www.fairchildgarden.org/",
+            "image": "https://fairchildgarden.org/wp-content/uploads/2022/01/Bird-Walks-10-scaled.jpeg"
+        },
+        {
+            "name": "Movies at Rooftop Cinema Club",
+            "description": "Watch classic and new movies under the stars on a rooftop theater.",
+            "price": "$18-$25 per person",
+            "link": "https://rooftopcinemaclub.com/",
+            "image": "https://rooftopcinemaclub.com/wp-content/uploads/sites/2/2022/02/SouthBeach_Header_1920x1080-2.jpg"
+        },
+        {
+            "name": "Sunset Cruise in Miami",
+            "description": "Take a romantic boat ride and watch the sunset over Biscayne Bay.",
+            "price": "$30-$50 per couple",
+            "link": "https://www.miamisunsetcruises.com/",
+            "image": "https://www.giftory.com/cdn/shop/files/miami_skyline_view_600x.jpg?v=1742297059.webp"
+        },
+        {
+            "name": "Pérez Art Museum Miami",
+            "description": "Explore modern and contemporary art at this stunning waterfront museum.",
+            "price": "$16 per person",
+            "link": "https://www.pamm.org/",
+            "image": "https://www.pamm.org/wp-content/uploads/2022/09/PAMM_MOCK_2.png"
+        },
+        {
+            "name": "Vizcaya Museum and Gardens",
+            "description": "Step back in time with a visit to this historic Italian-style villa and gardens.",
+            "price": "$25 per person",
+            "link": "https://vizcaya.org/",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Villa_Vizcaya_20110228.jpg"
+        },
+        {
+            "name": "Bike Ride on Hollywood Beach Boardwalk",
+            "description": "Enjoy a scenic bike ride along the beautiful Hollywood Beach Broadwalk.",
+            "price": "$10-$20 for bike rental",
+            "link": "https://www.floridashollywood.org/hollywood-beach-broadwalk/",
+            "image": "https://hollywoodbeachhotels.com/wp-content/uploads/2023/02/Hollywood-Beach-Boardwalk.jpg"
+        },
+        {
+            "name": "Everglades Airboat Tour",
+            "description": "Get up close with Florida’s wildlife on an exciting airboat ride through the Everglades.",
+            "price": "$25-$40 per person",
+            "link": "https://www.evergladesholidaypark.com/",
+            "image": "https://www.wootenseverglades.com/wp-content/uploads/2022/06/airboat-WOOTENS-AIRBOATS-22-1x1-1200.jpeg"
+        }
+    ]
+}
